@@ -1,0 +1,11 @@
+Puede crear un archivo .gitignore en el directorio raíz del repositorio para indicarle a Git qué archivos y directorios ignorar cuando se realiza una confirmación. Para compartir las reglas de ignore con otros usuarios que clonan el repositorio, confirme el archivo .gitignore en el repositorio.
+
+GitHub mantiene una lista oficial de archivos .gitignore recomendados para muchos sistemas operativos, entornos y lenguajes de programación populares en el repositorio público "github/gitignore". También puede usar gitignore.io a fin de crear un archivo .gitignore para el sistema operativo, lenguaje de programación o IDE. Para más información, vea "github/gitignore" y el sitio "gitignore.io".
+
+Abra Git Bash.
+
+Navega a la ubicación de tu repositorio de Git.
+
+Cree un archivo .gitignore para el repositorio.
+
+touch .gitignore
